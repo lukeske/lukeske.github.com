@@ -118,7 +118,9 @@ textarea {
   overflow: auto;
   vertical-align: top;
 }
-
+.logo{
+  text-align:center;
+  }
 .clearfix {
   *zoom: 1;
 }
