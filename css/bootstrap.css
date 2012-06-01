@@ -118,9 +118,18 @@ textarea {
   overflow: auto;
   vertical-align: top;
 }
-.logo{
+.logo {
   text-align:center;
   }
+
+.img-left{
+   float: left; 
+   margin: 0.5em 1em 1em 0; 
+   border: 1px solid #999; 
+   clear: left;
+  }
+
+
 .clearfix {
   *zoom: 1;
 }
