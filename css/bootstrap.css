@@ -129,6 +129,13 @@ textarea {
    clear: left;
   }
 
+.img-right { 
+	float: right; 
+	margin: 0.5em 0 1em 1em; 
+	border: 1px solid #999; 
+	clear: right; 
+	}
+
 
 .clearfix {
   *zoom: 1;
